@@ -36,9 +36,11 @@ To install a local version of xChess you need first to have installed NPM and Mo
 * Go into the folder `$ cd chess-react-server`
 * Run npm packager `$ npm install`
 * Create development database: `$ mongod`
-* Run server on a new tab: `$ npm start`
+* Run server: `$ npm start`
+* Open new tab
 * `$cd ..`
 * Download client `$ git clone https://github.com/DetectiveAzul/chess-react`
+* Go into the folder `$ cd chess-react-client`
 * Run npm packager `$ npm install`
 * Run client `$ npm start`
 
